@@ -1,2 +1,2 @@
 # snake-python
-snake game using python
+python snake game using turtle
